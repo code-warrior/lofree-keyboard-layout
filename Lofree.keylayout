@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.5.180 on 2017-06-18 at 15:30 (EDT)-->
+<!--Last edited by Ukelele version 3.2.5.180 on 2017-06-18 at 15:56 (EDT)-->
 <keyboard group="126" id="-18664" name="U.S.--Lofree" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -497,18 +497,18 @@
 			<key code="15" output="‰"/>
 			<key code="16" output="Á"/>
 			<key code="17" output="ˇ"/>
-			<key code="18" output="⁄"/>
-			<key code="19" output="€"/>
-			<key code="20" output="‹"/>
-			<key code="21" output="›"/>
-			<key code="22" output="ﬂ"/>
-			<key code="23" output="ﬁ"/>
-			<key code="24" output="±"/>
-			<key code="25" output="·"/>
-			<key code="26" output="‡"/>
-			<key code="27" output="—"/>
-			<key code="28" output="°"/>
-			<key code="29" output="‚"/>
+			<key code="18" output="€"/>
+			<key code="19" output="‹"/>
+			<key code="20" output="›"/>
+			<key code="21" output="ﬁ"/>
+			<key code="22" output="‡"/>
+			<key code="23" output="ﬂ"/>
+			<key code="24" output=""/>
+			<key code="25" output="‚"/>
+			<key code="26" output="°"/>
+			<key code="27" output="±"/>
+			<key code="28" output="·"/>
+			<key code="29" output="—"/>
 			<key code="30" output="’"/>
 			<key code="31" output="Ø"/>
 			<key code="32" output="¨"/>
@@ -529,7 +529,7 @@
 			<key code="47" output="˘"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
-			<key code="50" output="~"/>
+			<key code="50" output="⁄"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
