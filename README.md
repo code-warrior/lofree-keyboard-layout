@@ -15,7 +15,7 @@ This keyboard layout was created using the [Summer Institute of Linguistics’ U
 ![](img/5.png)
 5. `U.S.--Lofree` should now appear along the left column:
 ![](img/6.png)
-5. You’ll have an icon in the menu bar, to the left of the clock, that you can now click to toggle input sources. Choose `U.S.--Lofree`
+6. You’ll have an icon in the menu bar, to the left of the clock, that you can now click to toggle input sources. Choose `U.S.--Lofree`
 ![](img/7.png)
 
 ## Verified On…
