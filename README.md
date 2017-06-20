@@ -3,6 +3,8 @@ If you own a lofree Mechanical Keyboard, you’re aware of the fact that the num
 
 This keyboard layout was created using the [Summer Institute of Linguistics’ Ukelele Keyboard Layout Editor](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele).
 
+![](img/keyboard-with-numeric-keys-back-in-place.jpg)
+
 ## Installation
 1. Copy the file `Lofree.keylayout` to `~/Library/Keyboard Layouts`:
 ![](img/1.png)
