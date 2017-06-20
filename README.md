@@ -18,6 +18,8 @@ This keyboard layout was created using the [Summer Institute of Linguistics’ U
 6. You’ll have an icon in the menu bar, to the left of the clock, that you can now click to toggle input sources. Choose `U.S.--Lofree`
 ![](img/7.png)
 
+*Note*: Toggling between windows is done with `ctrl` + `command` + `1`.
+
 ## Verified On…
 * Mac OS 10.11.x
 * Mac OS 10.12.x
