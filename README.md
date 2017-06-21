@@ -1,7 +1,7 @@
 # Lofree Mechanical Keyboard Layout for Mac OS X
-If you own a lofree Mechanical Keyboard, you’re aware of the fact that the numeric and the function rows have been shifted to the right by 1 key. This keyboard layout shifts the numeric row back to its original position, but leaves the function keys alone.
+If you own a lofree Mechanical Keyboard, you’re aware that the numeric and function rows have been shifted to the right by one key. This keyboard layout, `Lofree.keylayout`, shifts the numeric row back to its original position, but leaves the function keys alone.
 
-This keyboard layout was created using the [Summer Institute of Linguistics’ Ukelele Keyboard Layout Editor](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele).
+`Lofree.keylayout` was created using the [Summer Institute of Linguistics’ Ukelele Keyboard Layout Editor](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele). See below for installation.
 
 ![](img/keyboard-with-numeric-keys-back-in-place.jpg)
 
